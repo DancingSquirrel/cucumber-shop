@@ -38,3 +38,4 @@ public class BuyStepdefs {
         assertEquals(quantity, catalog.getProduct(name).getStock());
     }
 }
+// saran wongkum 6410451415
