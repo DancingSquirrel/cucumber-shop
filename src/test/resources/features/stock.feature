@@ -1,3 +1,5 @@
+# Saran wongkum 6410451415
+
 Feature: Check stock
   As a cashier
   I want to check stock
